@@ -1,87 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T18:48:51.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="M1XsCZmAAsB66cLj4RI1" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T19:29:41.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HQavkM4C83v40T8DLNfU" version="24.0.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1804" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="UI:AddCardScreen" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="150" y="120" width="100" height="420" as="geometry" />
+          <mxGeometry x="330" y="100" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value=":ProgramEntry" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="100" height="420" as="geometry" />
+          <mxGeometry x="500" y="100" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-1" value="Add Card Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="180" width="730" height="320" as="geometry" />
+          <mxGeometry x="280" y="160" width="700" height="530" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-2" value=":FlashCard" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="420" y="120" width="100" height="440" as="geometry" />
+          <mxGeometry x="600" y="100" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-3" value=":Level" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="550" y="120" width="100" height="430" as="geometry" />
+          <mxGeometry x="730" y="100" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-4" value=":Data" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="680" y="120" width="100" height="440" as="geometry" />
+          <mxGeometry x="860" y="100" width="100" height="660" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-5" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="-90" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUh8d4OaZrOM5soigd_F-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-5.53" y="570" as="sourcePoint" />
-            <mxPoint x="-5.53" y="190" as="targetPoint" />
+            <mxPoint x="-70" y="580" as="sourcePoint" />
+            <mxPoint x="-70" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+        <mxCell id="548Dcg6xIAPnq4ezfdzh-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="-70" y="240" as="sourcePoint" />
             <mxPoint x="400" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="100" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+        <mxCell id="XK77gLLdWc2-d-Yq1FGP-2" value="Enter &quot;Card to show&quot; and &quot;Card to reveal&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="548Dcg6xIAPnq4ezfdzh-2">
+          <mxGeometry x="-0.3558" y="-3" relative="1" as="geometry">
+            <mxPoint x="45" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="548Dcg6xIAPnq4ezfdzh-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="280" as="sourcePoint" />
+            <mxPoint x="-70" y="280" as="sourcePoint" />
             <mxPoint x="200" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+        <mxCell id="XK77gLLdWc2-d-Yq1FGP-3" value="Select &quot;Level&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="548Dcg6xIAPnq4ezfdzh-5">
+          <mxGeometry x="-0.1066" y="4" relative="1" as="geometry">
+            <mxPoint x="-11" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="548Dcg6xIAPnq4ezfdzh-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="320" as="sourcePoint" />
+            <mxPoint x="-70" y="320" as="sourcePoint" />
             <mxPoint x="400" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XK77gLLdWc2-d-Yq1FGP-4" value="Click &quot;Add Card&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="548Dcg6xIAPnq4ezfdzh-6">
+          <mxGeometry x="-0.1155" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="548Dcg6xIAPnq4ezfdzh-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="339.5" as="sourcePoint" />
-            <mxPoint x="330" y="339.5" as="targetPoint" />
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="510" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="339.5" />
+              <mxPoint x="440" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="330" as="sourcePoint" />
-            <mxPoint x="400" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="470" />
-            </Array>
+        <mxCell id="XK77gLLdWc2-d-Yq1FGP-5" value="createCard(details, level)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="548Dcg6xIAPnq4ezfdzh-8">
+          <mxGeometry x="0.1662" relative="1" as="geometry">
+            <mxPoint x="-9" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329.5" y="350" as="sourcePoint" />
-            <mxPoint x="469.5" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="548Dcg6xIAPnq4ezfdzh-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="469.5" y="390" as="sourcePoint" />
-            <mxPoint x="329.5" y="390" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="XK77gLLdWc2-d-Yq1FGP-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="10" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
