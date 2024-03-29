@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T11:16:24.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VRZ6efWDPulCrTHvgvJ3" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T11:17:07.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ySVwwQ_0KHht6HPpsi9D" version="24.2.0" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2049" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="jYov9lkBJiWEw_87TPPv-24" value="Status" style="html=1;whiteSpace=wrap;" vertex="1" parent="jYov9lkBJiWEw_87TPPv-21">
           <mxGeometry x="40" y="180" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jYov9lkBJiWEw_87TPPv-25" value="IC" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;whiteSpace=wrap;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="760" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
